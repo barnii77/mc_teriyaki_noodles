@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 600,
+  "experience": 0.35,
+  "group": "teriyaki_noodles",
+  "ingredient": {
+    "item": "teriyakinoodles:raw_noodles"
+  },
+  "result": {
+    "id": "teriyakinoodles:fried_noodles"
+  }
+}

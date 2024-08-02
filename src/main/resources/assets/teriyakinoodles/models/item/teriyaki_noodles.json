@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "teriyakinoodles:item/teriyaki_noodles"
+  }
+}
