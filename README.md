@@ -1,4 +1,6 @@
 # Teriyaki Noodles
+Teriyaki Noodles for minecraft (java edition) 1.21, built with fabric.
+
 ## How to build/install/use?
 Open terminal and run:
 ```bash
